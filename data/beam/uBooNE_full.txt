@@ -1,0 +1,4 @@
+beam_type = 2
+beam_folder = /uboone/app/users/mdeltutt/special_samples/nuwro_workdir/convert_flux/ub_flux/
+beam_file_first = 0
+beam_file_limit = 1

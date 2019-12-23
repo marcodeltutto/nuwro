@@ -95,7 +95,7 @@ class BeamRF : public beam
 {
 	ND5Event *events[100000];
     double P_region;
-	int N;
+	int N = 0;
 	double * acum;
 	double * acum2;
 	int curevent;
