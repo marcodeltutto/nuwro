@@ -1,0 +1,4 @@
+beam_type = 2
+beam_folder = /sbnd/data/users/mdeltutt/sbnd_flux_nuwroformat/small/
+beam_file_first = 0
+beam_file_limit = 1
